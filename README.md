@@ -7,7 +7,7 @@ The Privacy Enhancing Technologies (PET) Initiative is a **community driven pr
 We follow a set of high‑level goals that guide everything we do:
 
 - **Enable open collaboration.** Provide a neutral home where researchers, developers and organisations can work together on PET research and implementations.
-- **Advance practical PET solutions.** Encourage development of production‑ready tools and frameworks for real‑world use cases such as healthcare, finance, advertising and more.
+- **Advance practical PET solutions.** Encourage development of production‑ready tools and frameworks for real world use cases such as healthcare, finance, advertising and more.
 - **Foster user trust and protect privacy.** Help organisations analyse data securely with tools that keep personal information private, demonstrating a commitment to responsible data practices.
 - **Ensure accessibility and transparency.** Adopt open source practices so PETs are accessible, transparent and globally impactful.
 - **Educate and grow the community.** Share best practices, reference implementations and educational resources so PET adoption accelerates across industries.
@@ -18,7 +18,7 @@ Our organisation currently hosts two main repositories:
 
 | Repository | Description |
 |-----------|------------|
-| **[Privacy‑Enhancing‑Technologies‑Initiative](https://github.com/privacy‑enhancing‑technologies/Privacy‑Enhancing‑Technologies‑Initiative)** | Home of the LF PET governance documents, technical charter drafts, meeting notes and community resources.  The README outlines the mission and provides links to our mailing list, wiki and meeting calendar. |
+| **[Privacy‑Enhancing‑Technologies‑Initiative](https://github.com/privacy‑enhancing‑technologies/Privacy‑Enhancing‑Technologies‑Initiative)** | Home of the PET Initative governance documents, technical charter drafts, meeting notes and community resources.  The README outlines the mission and provides links to our mailing list, wiki and meeting calendar. |
 | **[NetDPSyn](https://github.com/privacy‑enhancing‑technologies/NetDPSyn)** | Implementation of “NetDPSyn: Synthesizing Network Traces under Differential Privacy,” a system that generates high‑fidelity network traces with differential privacy guarantees.  The repository includes data preprocessing scripts, synthesis algorithms and evaluation code as described in the associated paper. |
 
 We plan to add more reference implementations and example projects as the PET Initiative grows.  If you have a project you’d like to contribute or bring under the PET umbrella, please reach out via the mailing list (see below).
