@@ -14,7 +14,7 @@ We follow a set of high‑level goals that guide everything we do:
 
 ## Current projects
 
-Our organisation currently hosts two main repositories:
+Our organisation currently hosts three main repositories:
 
 | Repository | Description |
 |-----------|------------|
